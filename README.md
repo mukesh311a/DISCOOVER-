@@ -1,4 +1,4 @@
-# DISCOOVER: Spatiotemporal Trust Evaluation
+# DISCOVER: Spatiotemporal Trust Evaluation
 
 This repository contains the code and the corresponding research paper for **Spatiotemporal Trust Evaluation**. 
 
